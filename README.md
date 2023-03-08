@@ -2,7 +2,7 @@
 I learned how to use Directx9 from the book "Beginning Game Programming" by Jonathan S Harbour. Using this new-found knowledge I set out to make a game. I'm not much of an ideas-guy, so I just figured I'd copy someone else's game. There was a popular flash game that I played growing up over on the popular gaming website at the time "addictinggames.com" called "Motherlode" The game was great to me as a kid. I tried my best to recreate it. I have essentially a fully functional game. The graphics are 0/10. This is a prime display of my artistic side. However, the game mechanics are good. I have a fully-fledged upgrade system and everything. Unfortunately the game doesn't really have an ending. Just the bottom of the map and a long pit of nothing.  
 
 # Youtube Playlist
-18 May 2018 - 25 May 2018  
+2018-05-18 - 2018-05-25  
 This is the youtube playlist of my progress with making the game. You can see improvements as time goes on. I won't detail everything, but I'll make a few points.  
 https://www.youtube.com/watch?v=BjnLUYfEBDs&list=PLTBZ3qil-RVUwJTFFmllGWEsbSCOmy8tT&index=1
   
